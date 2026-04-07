@@ -1,0 +1,22 @@
+/* FORÇA TOTAL - ignora sistema e tema */
+:root,
+:root[color-theme="light"],
+:root[color-theme="dark"] {
+    --header-background: #006837;
+    --header-font-color: #ffffff;
+
+    --body-background: #ffffff;
+    --body-font-color: #222;
+
+    --link-color: #006837;
+    --link-color-visited: #004d29;
+
+    --button-background: #006837;
+    --button-border-color: #004d29;
+
+    --accent-color: #e6f4ec;
+    --accent-color-dark: #cde8d9;
+
+    --footer-background: #004d29;
+    --footer-font-color: #ffffff;
+}

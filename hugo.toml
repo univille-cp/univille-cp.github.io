@@ -1,0 +1,10 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'pt-br'
+title = 'Univille Competitive Programming'
+theme = ["hugo-geekblog"]
+
+[params]
+  geekblogCustomCSS = ["custom.css"]
+  subtitle = "Grupo de Estudo para Programação Competitiva"
+  description = "This is my personal blog about tech."
+  geekblogDarkModeToggle = false
