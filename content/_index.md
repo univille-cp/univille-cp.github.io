@@ -14,6 +14,11 @@ Grupo aberto a todos os alunos, do iniciante ao experiente.
 
 {{< cards cols="2" >}}
   {{< card link="/blog/00_comece_aqui" title="Começe a sua Jornada Aqui" >}}
+  {{< card link="/blog/04_calendario_eventos_2026" title="Calendário de Eventos 2026" >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card link="https://www.instagram.com/mfp.sbc/" title="Maratona Feminina de Programação" >}}
   {{< card link="https://github.com/univille-cp/solutions-icpc-first-phase" title="Repositório de soluções no Github" >}}
 {{< /cards >}}
 
