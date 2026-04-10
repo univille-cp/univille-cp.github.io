@@ -8,6 +8,10 @@ toc: false
 
 **Reuniões:** Segundas-Feiras 18-19hrs sala C330
 
+Grupo aberto a todos os alunos, do iniciante ao experiente.
+
+[Inscreva-se](https://forms.cloud.microsoft/r/uAkEPG3Qcb?origin=lprLink) no grupo para receber as comunicações via-email.
+
 {{< cards cols="2" >}}
   {{< card link="/blog/00_comece_aqui" title="Começe a sua Jornada Aqui" >}}
   {{< card link="https://github.com/univille-cp/solutions-icpc-first-phase" title="Repositório de soluções no Github" >}}
