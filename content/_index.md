@@ -6,7 +6,7 @@ toc: false
 
 # UNIVILLE Competitive Programming
 
-**Reuniões:** Segundas-Feiras 18-19hrs sala C330
+**Reuniões:** Segunda-Feiras 18-19hrs sala C330
 
 Grupo aberto a todos os alunos, do iniciante ao experiente.
 
