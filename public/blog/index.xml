@@ -5,7 +5,6 @@
     <description>Recent content in Blogs on UNIVILLE Competitive Programming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 10 Apr 2026 16:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,12 +25,12 @@
         
         &lt;p&gt;A programação competitiva pode ser praticada principalmente nas plataformas Beecrowd, CodeForces e Leetcode.&lt;/p&gt;
 &lt;h3&gt;Beecrowd&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;beecrowd&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#beecrowd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Plataforma com coleções de problemas para prática de programação. Permite utilizar diversas linguagens de programação.&lt;/p&gt;
+    &lt;a href=&#34;#beecrowd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Link permanente para esta seção&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Plataforma com coleções de problemas para prática de programação. Permite utilizar diversas linguagens de programação.&lt;/p&gt;
 &lt;p&gt;Os problemas tem diferentes níveis de dificuldades.&lt;/p&gt;
 &lt;h3&gt;CodeForces&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;codeforces&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#codeforces&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Plataforma voltada para a prática e competição de programação. Nesta plataforma estão os problemas das competições anteriores de diferentes regiões e níveis de competições.&lt;/p&gt;
+    &lt;a href=&#34;#codeforces&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Link permanente para esta seção&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Plataforma voltada para a prática e competição de programação. Nesta plataforma estão os problemas das competições anteriores de diferentes regiões e níveis de competições.&lt;/p&gt;
 &lt;h3&gt;Leetcode&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;leetcode&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#leetcode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Plataforma voltada para a prática de programação para entrevista de empregos em big techs. Os problemas são organizados pelo tipo de algoritmo e/ou estruturas de dados necessários para ser resolvidos.&lt;/p&gt;
+    &lt;a href=&#34;#leetcode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Link permanente para esta seção&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Plataforma voltada para a prática de programação para entrevista de empregos em big techs. Os problemas são organizados pelo tipo de algoritmo e/ou estruturas de dados necessários para ser resolvidos.&lt;/p&gt;
       </description>
     </item>
     
