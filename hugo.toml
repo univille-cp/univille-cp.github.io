@@ -1,10 +1,38 @@
-baseURL = 'http://localhost:1313/'
-languageCode = 'pt-br'
-title = 'Univille Competitive Programming'
-theme = ["hugo-geekblog"]
+baseURL = 'https://example.org/'
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+title = 'UNIVILLE Competitive Programming'
+theme = "hextra"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Blog"
+  pageRef = "/blog"
+  weight = 1
+
+  [[menu.main]]
+  name = "Sobre"
+  pageRef = "/sobre"
+  weight = 3
+
+  [[menu.main]]
+  name = "Procurar"
+  weight = 4
+    [menu.main.params]
+    type = "search"
+
+  [[menu.main]]
+  name = "GitHub"
+  weight = 5
+  url = "https://github.com/univille-cp/"
+      [menu.main.params]
+      icon = "github"
+
+enableGitInfo = true
 
 [params]
-  geekblogCustomCSS = ["custom.css"]
-  subtitle = "Grupo de Estudo para Programação Competitiva"
-  description = "This is my personal blog about tech."
-  geekblogDarkModeToggle = false
+displayUpdatedDate = true
+dateFormat = "2 de January de 2006"
+displayUpdatedAuthor = true
