@@ -13,6 +13,11 @@ theme = "hextra"
   weight = 1
 
   [[menu.main]]
+  name = "Reuniões"
+  pageRef = "/reunioes"
+  weight = 2
+
+  [[menu.main]]
   name = "Sobre"
   pageRef = "/sobre"
   weight = 3
@@ -36,3 +41,17 @@ enableGitInfo = true
 displayUpdatedDate = true
 dateFormat = "2 de January de 2006"
 displayUpdatedAuthor = true
+
+
+[params.search]
+type = "flexsearch"
+enable = true
+
+[params.navbar.logo]
+path = "images/logo.svg"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params.footer]
+displayPoweredBy = false

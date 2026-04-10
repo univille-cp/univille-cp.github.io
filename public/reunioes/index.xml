@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNIVILLE Competitive Programming – Reunioes</title>
+    <link>http://localhost:1313/reunioes/</link>
+    <description>Recent content in Reunioes on UNIVILLE Competitive Programming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 10 Apr 2026 12:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/reunioes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>0000 - Start no grupo</title>
+      <link>http://localhost:1313/reunioes/0000_reuniao/</link>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reunioes/0000_reuniao/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Início do grupo de estudos no ano de 2026.&lt;/p&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>
