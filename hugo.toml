@@ -55,3 +55,6 @@ home = ["HTML", "RSS", "JSON"]
 
 [params.footer]
 displayPoweredBy = false
+
+[services.googleAnalytics]
+ID = "G-744NEFNQDQ"
