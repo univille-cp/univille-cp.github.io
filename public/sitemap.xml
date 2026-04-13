@@ -29,6 +29,8 @@
     <loc>http://localhost:1313/reunioes/</loc>
     <lastmod>2026-04-10T12:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/problemas/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
