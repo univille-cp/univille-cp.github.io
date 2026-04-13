@@ -19,7 +19,7 @@ Grupo aberto a todos os alunos, do iniciante ao experiente.
 
 {{< cards cols="2" >}}
   {{< card link="https://www.instagram.com/mfp.sbc/" title="Maratona Feminina de Programação" >}}
-  {{< card link="https://github.com/univille-cp/solutions-icpc-first-phase" title="Repositório de soluções no Github" >}}
+  {{< card link="/problemas_fase_regional" title="Problemas da Fase Regional" >}}
 {{< /cards >}}
 
 {{< cards cols="2" >}}

@@ -58,3 +58,7 @@ displayPoweredBy = false
 
 [services.googleAnalytics]
 ID = "G-744NEFNQDQ"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
