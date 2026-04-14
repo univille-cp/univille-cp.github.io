@@ -1,0 +1,90 @@
+<link
+    rel="stylesheet"
+    href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css"
+/>
+<table id="tabela-problemas">
+    <thead>
+        <tr>
+            <th>Ano</th>
+            <th>Problema</th>
+            <th>Nome</th>
+            <th>CF</th>
+            <th>Submissões</th>
+            <th>Aceitos</th>
+            <th>%</th>
+            <th>Editorial</th>
+            <th>C++</th>
+            <th>Java</th>
+            <th>Python</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range .Site.Data.problemas_fase_regional_brasil }}
+        <tr>
+            <td>{{ .ano }}</td>
+            <td>{{ .problema }}</td>
+
+            <td>{{ if .nome }} {{ .nome }} {{ else }}-{{ end }}</td>
+
+            <td>
+                {{ if .cf }}
+                <a href="{{ .cf }}" target="_blank">CF</a>
+                {{ else }}-{{ end }}
+            </td>
+
+            <td>{{ .submissoes }}</td>
+            <td>{{ .aceitos }}</td>
+            <td>{{ .percentual }}</td>
+
+            <td>
+                {{ with .editorial }}
+                <a href="{{ . }}">Link</a>
+                {{ else }}-{{ end }}
+            </td>
+
+            <td>
+                {{ with .cpp }}
+                <a href="{{ . }}">Link</a>
+                {{ else }}-{{ end }}
+            </td>
+
+            <td>
+                {{ with .java }}
+                <a href="{{ . }}">Link</a>
+                {{ else }}-{{ end }}
+            </td>
+
+            <td>
+                {{ with .python }}
+                <a href="{{ . }}">Link</a>
+                {{ else }}-{{ end }}
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        if (window.jQuery) {
+            $("#tabela-problemas").DataTable({
+                pageLength: 25,
+                language: {
+                    search: "Buscar:",
+                    lengthMenu: "Mostrar _MENU_ entradas",
+                    info: "Mostrando _START_ a _END_ de _TOTAL_ entradas",
+                    paginate: {
+                        first: "Primeiro",
+                        last: "Último",
+                        next: "Próximo",
+                        previous: "Anterior",
+                    },
+                    zeroRecords: "Nenhum resultado encontrado",
+                },
+            });
+        }
+    });
+</script>
