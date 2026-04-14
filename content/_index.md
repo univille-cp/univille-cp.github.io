@@ -8,6 +8,8 @@ toc: false
 
 **Reuniões:** Segunda-Feiras 18-19hrs sala C330
 
+Sexta-Feiras 18-19hrs sala C-323
+
 Grupo aberto a todos os alunos, do iniciante ao experiente.
 
 [Inscreva-se](https://forms.cloud.microsoft/r/uAkEPG3Qcb?origin=lprLink) no grupo para receber as comunicações via-email.
