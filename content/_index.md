@@ -20,7 +20,7 @@ Grupo aberto a todos os alunos, do iniciante ao experiente.
 {{< /cards >}}
 
 {{< cards cols="2" >}}
-  {{< card link="https://www.instagram.com/mfp.sbc/" title="Maratona Feminina de Programação" >}}
+  {{< card link="https://mfp.ic.unicamp.br/" title="Maratona Feminina de Programação" >}}
   {{< card link="/problemas_fase_regional" title="Problemas da Fase Regional" >}}
 {{< /cards >}}
 
