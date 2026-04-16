@@ -1,5 +1,10 @@
 +++
 title = "Editoriais da Fase Regional Brasileira"
 searchable = true
-layout = "list"
+type: "blog"
+layout: "list"
+cascade:
+  type: "blog"
+params:
+  sidebar: false
 +++
