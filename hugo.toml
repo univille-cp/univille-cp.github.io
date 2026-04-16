@@ -18,6 +18,11 @@ theme = "hextra"
   weight = 2
 
   [[menu.main]]
+  name = "Editoriais"
+  pageRef = "/editorias"
+  weight = 2
+
+  [[menu.main]]
   name = "Sobre"
   pageRef = "/sobre"
   weight = 3
