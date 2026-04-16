@@ -7,6 +7,6 @@ layout = "list"
 [cascade]
   type = "blog"
 
-[params]
-  sidebar = false
+[params.sidebar]
+  hide = true
 +++
