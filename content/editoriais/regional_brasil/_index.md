@@ -1,5 +1,5 @@
 +++
-title = "Editoriais da Fase Brasileira"
+title = "Editoriais da Fase Regional Brasileira"
 searchable = true
 layout = "list"
 +++
