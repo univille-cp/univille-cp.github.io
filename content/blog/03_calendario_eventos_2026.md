@@ -20,5 +20,5 @@ Principais eventos do ano, Fase Regional e Maratona Feminina
 
 ### Maratona Feminina de Programação
 
-* Primeira Fase: 9/5
-* Final: de 31/7 a 2/8
+* Primeira Fase: 23/5
+* Final: de 1/8 a 2/8
