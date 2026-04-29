@@ -15,6 +15,8 @@ Adicionados os problemas das maratonas de 2013 até 2025. Não há uma estatíst
 
 Observação: Alguns problemas estão disponíveis no Beecrowd(antigo URI) e é necessário realizar o login para visualizar.
 
+Caderno com todos os problemas (PDF) estão disponíves neste [repositório](https://github.com/univille-cp/cadernos-de-problemas/tree/main/maratona-de-programacao/regional).
+
 <br>
 
 {{<tabela-problemas>}}
