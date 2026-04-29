@@ -20,8 +20,13 @@ Grupo aberto a todos os alunos, do iniciante ao experiente.
 {{< /cards >}}
 
 {{< cards cols="2" >}}
-  {{< card link="https://mfp.ic.unicamp.br/" title="Maratona Feminina de Programação" >}}
   {{< card link="/problemas_fase_regional" title="Problemas da Fase Regional" >}}
+  {{< card link="/problemas_fase_nacional" title="Problemas da Fase Nacional" >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card link="https://mfp.ic.unicamp.br/" title="Maratona Feminina de Programação" >}}
+  {{< card link="https://codeforces.com/group/9CNwiex6Ir/contests" title="Problemas da Maratona Feminina (CodeForces)" >}}
 {{< /cards >}}
 
 {{< cards cols="2" >}}
