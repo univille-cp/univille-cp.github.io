@@ -11,7 +11,7 @@ Contribua para o [repositório](https://github.com/univille-cp/solutions-icpc-fi
 
 
 
-Adicionados os problemas das maratonas de 2013 até 2025. Não há uma estatística consolidada para os anos anteriores de 2016.
+Adicionados os problemas das maratonas de 2013 até 2026. Não há uma estatística consolidada para os anos anteriores de 2016.
 
 Observação: Alguns problemas estão disponíveis no Beecrowd(antigo URI) e é necessário realizar o login para visualizar.
 
